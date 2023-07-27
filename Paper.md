@@ -1,4 +1,4 @@
-**The Cosmic Gestation: How Cellular Evolution May Predict Our Path to Becoming a Planetary Organism**
+**The Cosmic Gestation: Interpreting Cellular Evolution to Anticipate Our Transition to a Planetary Organism**
 
 **Abstract:**
 
