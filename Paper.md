@@ -384,92 +384,181 @@ The time has come for humanity to awaken to its true nature and cosmic destiny. 
 **References:**
 
 Bonner, J. T. (1998). The origins of multicellularity. Integrative Biology: Issues, News, and Reviews, 1(1), 27-36.
+
 Chaisson, E. J. (2001). Cosmic Evolution: The Rise of Complexity in Nature. Harvard University Press.
+
 Harari, Y. N. (2014). Sapiens: A Brief History of Humankind. Harper.
+
 Lenton, T. M., & Watson, A. J. (2011). Revolutions that made the Earth. Oxford University Press.
+
 Lenton, T. M. (2016). Earth System Science: A Very Short Introduction. Oxford University Press.
+
 Lovelock, J. (2000). Gaia: A New Look at Life on Earth. Oxford University Press.
+
 Rifkin, J. (2014). The Zero Marginal Cost Society: The Internet of Things, the Collaborative Commons, and the Eclipse of Capitalism. Palgrave Macmillan.
+
 Russell, S. (2019). Human Compatible: Artificial Intelligence and the Problem of Control. Viking.
+
 Tegmark, M. (2017). Life 3.0: Being Human in the Age of Artificial Intelligence. Knopf.
+
 Wright, R. (2000). Nonzero: The Logic of Human Destiny. Vintage.
+
 Cochrane, T. (2020). A case of shared consciousness. Synthese, 199(1-2), 1019-1037.
+
 Dominus, S. (2011). Could conjoined twins share a mind? New York Times Magazine, 25.
+
 Ienca, M., & Andorno, R. (2017). Towards new human rights in the age of neuroscience and neurotechnology. Life Sciences, Society and Policy, 13(1), 5.
+
 Musk, E., & Neuralink. (2019). An integrated brain-machine interface platform with thousands of channels. Journal of Medical Internet Research, 21(10), e16194.
+
 Pollan, M. (2018). How to change your mind: What the new science of psychedelics teaches us about consciousness, dying, addiction, depression, and transcendence. Penguin.
+
 Rao, R. P., Stocco, A., Bryan, M., Sarma, D., Youngquist, T. M., Wu, J., & Prat, C. S. (2014). A direct brain-to-brain interface in humans. PloS one, 9(11), e111332.
+
 Stern, N. H. (2007). The economics of climate change: the Stern review. Cambridge University Press.
+
 Tufekci, Z. (2017). Twitter and tear gas: The power and fragility of networked protest. Yale University Press.
+
 Arendt, D., Tosches, M. A., & Marlow, H. (2016). From nerve net to nerve ring, nerve cord and brain—evolution of the nervous system. Nature Reviews Neuroscience, 17(1), 61-72.
+
 Bonabeau, E., Theraulaz, G., Deneubourg, J. L., Aron, S., & Camazine, S. (1997). Self-organization in social insects. Trends in Ecology & Evolution, 12(5), 188-193.
+
 Bostrom, N. (2008). Global Catastrophic Risks. Oxford University Press.
+
 Castells, M. (2001). The Internet Galaxy: Reflections on the Internet, Business, and Society. Oxford University Press.
+
 Castells, M. (2010). The rise of the network society (2nd ed.). Wiley-Blackwell.
+
 Copeland, B. J. (2004). The Essential Turing. Oxford University Press.
+
 Cronin, A. L., Molet, M., Doums, C., Monnin, T., & Peeters, C. (2013). Recurrent evolution of dependent colony foundation across eusocial insects. Annual Review of Entomology, 58, 37-55.
+
 Darwin, C. (1859). On the Origin of Species. London: John Murray.
+
 Dick, S. J. (2003). Cultural evolution, the postbiological universe and SETI. International Journal of Astrobiology, 2(1), 65-74.
+
 Feldman, D. E. (2012). The spike-timing dependence of plasticity. Neuron, 75(4), 556-571.
+
 Foote, A. D. (2007). Communication and Niche Construction: The Role of Ecological Inheritance in Organism-Environment Systems. Proceedings of the 9th European Conference on Artificial Life, 223-232.
+
 Gidon, A., Zolnik, T. A., Fidzinski, P., Bolduan, F., Papoutsi, A., Poirazi, P., ... & Larkum, M. E. (2020). Dendritic action potentials and computation in human layer 2/3 cortical neurons. Science, 367(6473), 83-87.
+
 Goldman-Rakic, P. S. (1995). Cellular basis of working memory. Neuron, 14(3), 477-485.
+
 Grosberg, R. K., & Strathmann, R. R. (2007). The evolution of multicellularity: A minor major transition?. Annual Review of Ecology, Evolution, and Systematics, 38, 621-654.
+
 Harari, Y. N. (2014). Sapiens: A Brief History of Humankind. London: Harvill Secker.
+
 Hölldobler, B., & Wilson, E. O. (1990). The ants. Harvard University Press.
+
 Jékely, G., Keijzer, F., & Godfrey-Smith, P. (2015). An option space for early neural evolution. Philosophical Transactions of the Royal Society B: Biological Sciences, 370(1684), 20150181.
+
 Kauffman, S. A. (1993). The origins of order: Self-organization and selection in evolution. Oxford University Press, USA.
+
 Kurzweil, R. (2005). The Singularity is Near. New York: Viking Books.
+
 Moroz, L. L. (2014). The genealogy of genealogy of neurons. Communicative & Integrative Biology, 7(6), e993269.
+
 Mueller, U. G., Gerardo, N. M., Aanen, D. K., Six, D. L., & Schultz, T. R. (2005). The evolution of agriculture in insects. Annual Review of Ecology, Evolution, and Systematics, 36, 563-595.
+
 O'Riain, M. J., Jarvis, J. U., Alexander, R., Buffenstein, R., & Peeters, C. (1996). Morphological castes in a vertebrate. Proceedings of the National Academy of Sciences, 93(23), 13194-13197.
+
 Rutherford, S. T., & Bassler, B. L. (2012). Bacterial quorum sensing: Its role in virulence and possibilities for its control. Cold Spring Harbor Perspectives in Medicine, 2(11), a012427.
+
 Schmandt-Besserat, D. (1996). How writing came about. University of Texas Press.
+
 Smith, J. M., & Szathmary, E. (1995). The Major Transitions in Evolution. Oxford: W. H. Freeman.
+
 Spruston, N. (2008). Pyramidal neurons: dendritic structure and synaptic integration. Nature Reviews Neuroscience, 9(3), 206-221.
+
 Stewart, P. S., & Franklin, M. J. (2008). Physiological heterogeneity in biofilms. Nature Reviews Microbiology, 6(3), 199-210.
+
 Stuart, G. J., & Spruston, N. (2015). Dendritic integration: 60 years of progress. Nature Neuroscience, 18(12), 1713-1721.
+
 Szathmáry, E., & Maynard Smith, J. (1995). The major evolutionary transitions. Nature, 374(6519), 227-232.
+
 Turchin, P. (2003). Historical dynamics: Why states rise and fall. Princeton University Press.
+
 Way, M. J. (1963). Mutualism between ants and honeydew-producing Homoptera. Annual Review of Entomology, 8(1), 307-344.
+
 Webb, S. (2002). Where is Everybody? Fifty Solutions to the Fermi Paradox and the Problem of Extraterrestrial Life. New York: Copernicus Books.
+
 West, S. A., Fisher, R. M., Gardner, A., & Kiers, E. T. (2015). Major evolutionary transitions in individuality. Proceedings of the National Academy of Sciences, 112(33), 10112-10119.
+
 Wilson, E. O. (1971). The insect societies. Harvard University Press.
+
 Wilson, E. O. (1975). Sociobiology: The New Synthesis. Cambridge, MA: Harvard University Press.
+
 West, S. A., Fisher, R. M., Gardner, A., & Kiers, E. T. (2015). Major evolutionary transitions in individuality. Proceedings of the National Academy of Sciences, 112(33), 10112-10119.
+
 Stewart, P. S., & Franklin, M. J. (2008). Physiological heterogeneity in biofilms. Nature Reviews Microbiology, 6(3), 199-210.
+
 Theraulaz, G., Bonabeau, E., & Deneubourg, J. L. (1998). The origin of nest complexity in social insects. Complexity, 3(6), 15-25.
+
 Anderson, C., Theraulaz, G., & Deneubourg, J. L. (2002). Self-assemblages in insect societies. Insectes Sociaux, 49(2), 99-110.
+
 Bourke, A. F. (2011). Principles of social evolution. Oxford University Press.
+
 Burbidge, E. M., Burbidge, G. R., Fowler, W. A., & Hoyle, F. (1957). Synthesis of the elements in stars. Reviews of Modern Physics, 29(4), 547.
+
 Corning, P. A. (2005). Holistic Darwinism: Synergy, cybernetics, and the bioeconomics of evolution. University of Chicago Press.
+
 Costerton, J. W., Lewandowski, Z., Caldwell, D. E., Korber, D. R., & Lappin-Scott, H. M. (1995). Microbial biofilms. Annual Review of Microbiology, 49(1), 711-745.
+
 Czaczkes, T. J., Grüter, C., & Ratnieks, F. L. (2015). Trail pheromones: an integrative view of their role in social insect colony organization. Annual Review of Entomology, 60, 581-599.
+
 Daniels, P. T., & Bright, W. (1996). The world's writing systems. Oxford University Press on Demand.
+
 De Duve, C. (1995). Vital dust: life as a cosmic imperative. Basic Books.
+
 Deutsch, D. (2011). The beginning of infinity: Explanations that transform the world. Penguin UK.
+
 Diamond, J. M. (1997). Guns, germs, and steel: the fates of human societies. W.W. Norton & Co.
+
 Douglas, S. J. (1987). Inventing American broadcasting, 1899-1922. Johns Hopkins University Press.
+
 Dudziak, M. L. (2000). Cold War civil rights: Race and the image of American democracy. Princeton University Press.
+
 Eisenstein, E. L. (1980). The printing press as an agent of change. Cambridge University Press.
+
 Flemming, H. C., Wingender, J., Szewzyk, U., Steinberg, P., Rice, S. A., & Kjelleberg, S. (2016). Biofilms: an emergent form of bacterial life. Nature Reviews Microbiology, 14(9), 563-575.
+
 Friedman, T. L. (2005). The world is flat: A brief history of the twenty-first century. Macmillan.
+
 Gantz, J., & Reinsel, D. (2012). The digital universe in 2020: Big data, bigger digital shadows, and biggest growth in the far east. IDC iView: IDC Analyze the future, 2007(2012), 1-16.
+
 Heller, N. E., Ingram, K. K., & Gordon, D. M. (2006). Nest connectivity and colony structure in unicolonial Argentine ants. Insectes Sociaux, 53(2), 194-201.
+
 Hilbert, M., & López, P. (2011). The world's technological capacity to store, communicate, and compute information. Science, 332(6025), 60-65.
+
 Jarvis, J. U. (1981). Eusociality in a mammal: cooperative breeding in naked mole-rat colonies. Science, 212(4494), 571-573.
+
 Kurzweil, R. (2005). The singularity is near: When humans transcend biology. Penguin.
+
 Lacey, K. (2018). Radio in the American sector: occupation, reform, and the postwar transformation of German culture. Central European History, 51(4), 573-598.
+
 LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. Nature, 521(7553), 436-444.
+
 Mazower, M. (2009). No enchanted palace: the end of empire and the ideological origins of the United Nations. Princeton University Press.
+
 Nadell, C. D., Drescher, K., & Foster, K. R. (2016). Spatial structure, cooperation and competition in biofilms. Nature Reviews Microbiology, 14(9), 589-600.
+
 Nadell, C. D., Xavier, J. B., & Foster, K. R. (2009). The sociobiology of biofilms. FEMS Microbiology Reviews, 33(1), 206-224.
+
 Niklas, K. J., & Newman, S. A. (2013). The origins of multicellular organisms. Evolution & Development, 15(1), 41-52.
+
 Nowak, M. A. (2006). Five rules for the evolution of cooperation. Science, 314(5805), 1560-1563.
+
 Oliveira, N. M., Martinez-Garcia, E., Xavier, J., Durham, W. M., Kolter, R., Kim, W., & Foster, K. R. (2015). Biofilm formation as a response to ecological competition. PLoS Biology, 13(7), e1002191.
+
 Pinker, S. (2011). The better angels of our nature: Why violence has declined. Penguin Group USA.
+
 Raworth, K. (2017). Doughnut economics: seven ways to think like a 21st-century economist. Chelsea Green Publishing.
+
 Schultz, T. R., & Brady, S. G. (2008). Major evolutionary transitions in ant agriculture. Proceedings of the National Academy of Sciences, 105(14), 5435-5440.
+
 Tomasello, M. (2014). The ultra‐social animal. European Journal of Social Psychology, 44(3), 187-194.
+
 Turchin, V. F. (1977). The phenomenon of science. Columbia University Press.
+
 Volkov, A. G., Adesina, T., Markin, V. S., & Jovanov, E. (2008). Kinetics and mechanism of dionaea muscipula trap closing. Plant Physiology, 146(2), 694-702.
