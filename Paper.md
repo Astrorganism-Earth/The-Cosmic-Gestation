@@ -134,10 +134,6 @@ This indirect, persistent communication gave cells, ants, humans, and any other 
 
 The similarities in emergent capabilities across these vastly different species highlight the fundamental importance of indirect persistent communication in the evolution of complex social structures. Understanding these parallels can provide valuable insights into the nature of cooperation, the evolution of social systems, and potentially, the future trajectory of human societies and technological development.
 
-![Isocrone Map Spain](https://astrorganism.earth/images/Spain.webp)
-
-_Isochrone map of Spain (2017), created by Alberto Hernando at roadtrees.com, illustrates the fractal nature of Spain's road network. This visual representation reflects the complex, interconnected systems discussed in this section, demonstrating how human-created networks mirror patterns found in nature._ 
-
 #### 2.1.2 The Vulnerability-Cooperation Paradox
 
 A significant pattern emerges across different scales of life: organisms that rely on indirect persistent communication often exhibit increased individual vulnerability. Paradoxically, this vulnerability appears to drive greater cooperation and interdependence (Csányi & Kampis, 1991; Szathmáry & Maynard Smith, 1995).
@@ -223,9 +219,6 @@ The parallels are striking. Before the telegraph, human long-distance communicat
 
 What's truly astounding is the scale of this transformation. Suddenly, humanity achieved the capacity to connect one continent to another instantly. What once took months for a boat to accomplish - carrying messages across vast oceans - could now be done in a matter of minutes. We were able to exchange messages almost in real-time from one point of the planet to the other. This leap in communication speed and reach was as revolutionary for human society as the development of proto-neurons was for cellular organisms.
 
-![Isocrone Map USA](https://astrorganism.earth/images/USA-p-1600.webp)
-_The USA's road network isochrone map (2017) by Alberto Hernando, despite being relatively newer, displays similar fractal patterns to older systems, highlighting universal principles in network growth._
-
 #### 2.2.4 From One-to-One to One-to-Many Communication
 
 But the evolution didn't stop there. Just as cells developed more sophisticated neural networks, humanity continued to refine its communication technologies. The next major leap came with the development of "one-to-many" communication systems. In cellular organisms, this is exemplified by motor neurons, which can simultaneously signal multiple muscle fibers. A fascinating example of this in nature is the Venus flytrap, where touching a single trigger hair (one cell) can cause the entire leaf (many cells) to close rapidly (Volkov et al., 2008).
@@ -233,10 +226,6 @@ But the evolution didn't stop there. Just as cells developed more sophisticated 
 Remarkably, human technology followed a similar trajectory with the invention of radio. Radio represented a revolutionary "one-to-many" form of instantaneous communication, allowing a single source to broadcast information to countless receivers simultaneously. This development had profound implications for human society, enabling unprecedented levels of coordination and information dissemination (Douglas, 1987).
 
 The impact of radio on human affairs was as transformative as the development of motor-neurons was for multicellular organisms. It facilitated the coordination of entire nations, revolutionized military operations, and played a crucial role in shaping public opinion. Radio was instrumental in the rise of mass politics, including fascism, and played a significant role in both World Wars (Lacey, 2018).
-
-![Isocrone Map UK](https://astrorganism.earth/images/UK.webp)
-
-_This isochrone map of the UK's road network (2017) by Alberto Hernando._ 
 
 #### 2.2.5 The Rise of Complex Information Processing: Many-to-Many Communication
 
@@ -251,10 +240,6 @@ Essentially, thanks to pyramidal neurons, cells were able to rely on an external
 This was a remarkable feat, as Turing had essentially discovered a way to make external matter, the very fabric of our environment, receive, encode, and process human information autonomously, much like how pyramidal neurons enabled cells to rely on an external network for information processing. The implications of this were profound, as it meant that information processing was no longer confined to biological systems, but could be carried out by human-made machines. Turing's computational machines played a crucial role in cracking the Enigma code used by the Nazis during World War II (Copeland, 2004), demonstrating the immense power and potential of automated information processing. Turing's work laid the foundation for the development of modern computers and marked a turning point in the evolution of information processing systems.
 
 The development of computers laid the groundwork for the creation of the internet, which emerged in the latter half of the 20th century. The internet represents a many-to-many communication system that transcends geographical and political boundaries, allowing for the free flow of information on a global scale. This network doesn't just communicate; it has become a place in its own right - a virtual space where information is not only transmitted but also generated, processed, and evolved (Castells, 2001).
-
-![Isocrone Map China](https://astrorganism.earth/images/China.webp)
-
-_Image of China's isochrone map road network (2017) by Alberto Hernando._
 
 #### 2.2.7 The Path to Global Integration
 
