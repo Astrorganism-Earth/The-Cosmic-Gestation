@@ -132,9 +132,11 @@ Humans have taken these capabilities to extraordinary levels:
 
 This indirect, persistent communication gave cells, ants, humans, and any other creature that developed this technology the capacity to accumulate information that exceeds the capacity of a single individual to hold in quantity and quality, achieving a form of perfect memory (Foote, 2007). It allows for the transmission of knowledge across space and time, enabling the preservation and buildup of information over generations.
 
-The following isochrone map (2017), created by Alberto Hernando at roadtrees.com, illustrates the fractal nature of Spain's road network. This visual representation reflects the complex, interconnected systems discussed in this section, demonstrating how human-created networks mirror patterns found in nature.
-
 The similarities in emergent capabilities across these vastly different species highlight the fundamental importance of indirect persistent communication in the evolution of complex social structures. Understanding these parallels can provide valuable insights into the nature of cooperation, the evolution of social systems, and potentially, the future trajectory of human societies and technological development.
+
+![Isocrone Map Spain](https://astrorganism.earth/images/Spain.webp)
+
+_Isochrone map of Spain (2017), created by Alberto Hernando at roadtrees.com, illustrates the fractal nature of Spain's road network. This visual representation reflects the complex, interconnected systems discussed in this section, demonstrating how human-created networks mirror patterns found in nature._ 
 
 #### 2.1.2 The Vulnerability-Cooperation Paradox
 
@@ -221,7 +223,8 @@ The parallels are striking. Before the telegraph, human long-distance communicat
 
 What's truly astounding is the scale of this transformation. Suddenly, humanity achieved the capacity to connect one continent to another instantly. What once took months for a boat to accomplish - carrying messages across vast oceans - could now be done in a matter of minutes. We were able to exchange messages almost in real-time from one point of the planet to the other. This leap in communication speed and reach was as revolutionary for human society as the development of proto-neurons was for cellular organisms.
 
-The USA's road network isochrone map (2017) by Alberto Hernando, despite being relatively newer, displays similar fractal patterns to older systems, highlighting universal principles in network growth.
+![Isocrone Map USA](https://astrorganism.earth/images/USA-p-1600.webp)
+_The USA's road network isochrone map (2017) by Alberto Hernando, despite being relatively newer, displays similar fractal patterns to older systems, highlighting universal principles in network growth._
 
 #### 2.2.4 From One-to-One to One-to-Many Communication
 
@@ -231,7 +234,9 @@ Remarkably, human technology followed a similar trajectory with the invention of
 
 The impact of radio on human affairs was as transformative as the development of motor-neurons was for multicellular organisms. It facilitated the coordination of entire nations, revolutionized military operations, and played a crucial role in shaping public opinion. Radio was instrumental in the rise of mass politics, including fascism, and played a significant role in both World Wars (Lacey, 2018).
 
-This isochrone map of the UK's road network (2017) by Alberto Hernando, illustrates how complex, interconnected systems develop over time. The dense, branching pattern showcases efficient pathways spreading from a central point, mirroring the growth of communication networks.
+![Isocrone Map UK](https://astrorganism.earth/images/UK.webp)
+
+_This isochrone map of the UK's road network (2017) by Alberto Hernando._ 
 
 #### 2.2.5 The Rise of Complex Information Processing: Many-to-Many Communication
 
@@ -247,7 +252,9 @@ This was a remarkable feat, as Turing had essentially discovered a way to make e
 
 The development of computers laid the groundwork for the creation of the internet, which emerged in the latter half of the 20th century. The internet represents a many-to-many communication system that transcends geographical and political boundaries, allowing for the free flow of information on a global scale. This network doesn't just communicate; it has become a place in its own right - a virtual space where information is not only transmitted but also generated, processed, and evolved (Castells, 2001).
 
-The following image of China's isochrone map road network (2017) by Alberto Hernando demonstrates how complex information processing creates centralized hubs of activity:
+![Isocrone Map China](https://astrorganism.earth/images/China.webp)
+
+_Image of China's isochrone map road network (2017) by Alberto Hernando._
 
 #### 2.2.7 The Path to Global Integration
 
