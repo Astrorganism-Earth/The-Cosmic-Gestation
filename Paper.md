@@ -1,7 +1,7 @@
 # **The Dawn of the Astrorganism**
 # Aligning Humanity, AI, and the Earth's Future
 
-## Nyx Romero Redondo
+Nyx Romero Redondo
 
 nyx@astrorganism.earth
 
