@@ -1,4 +1,4 @@
-# **The Dawn of the Astrorganism** Aligning Humanity, AI, and the Earth's Future
+# **The Dawn of the Astrorganism:** Aligning Humanity, AI, and the Earth's Future
 
 Nyx Romero Redondo
 
