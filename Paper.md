@@ -207,7 +207,7 @@ But how does this play out in real-world systems? Let's explore some fascinating
 
 **In cellular systems:**
 
-* It's as if the city's heart becomes cut off from vital resources and information.In the microscopic world of bacterial biofilms, size becomes a double-edged sword. As Stewart and Franklin (2008) observed, when biofilms grow too large, the interior cells can no longer receive sufficient nutrients or respond to signaling molecules. This leads to a fascinating phenomenon: heterogeneity within the colony. The once-uniform biofilm becomes a complex ecosystem of micro-environments, each with its own chemical signature. But at what cost? The very growth that allowed the biofilm to dominate its environment now threatens its cohesion and survival.
+* In the microscopic world of bacterial biofilms, size becomes a double-edged sword. As Stewart and Franklin (2008) observed, when biofilms grow too large, the interior cells can no longer receive sufficient nutrients or respond to signaling molecules. This leads to a fascinating phenomenon: heterogeneity within the colony. The once-uniform biofilm becomes a complex ecosystem of micro-environments, each with its own chemical signature. But at what cost? The very growth that allowed the biofilm to dominate its environment now threatens its cohesion and survival.
 
 **In insect colonies:**
 
