@@ -1,11 +1,12 @@
-# **The Dawn of the Astrorganism** Aligning Humanity, AI, and the Earth's Future
+# **The Dawn of the Astrorganism**
+# Aligning Humanity, AI, and the Earth's Future
 
 ## Nyx Romero Redondo
 
 nyx@astrorganism.earth
 
-**Chapter 1: The Arrow of Complexity:**   
-Unveiling the Hidden Pattern of Our Universe
+# **Chapter 1: The Arrow of Complexity:**   
+# Unveiling the Hidden Pattern of Our Universe
 
 ## **1.1 Introduction**
 
